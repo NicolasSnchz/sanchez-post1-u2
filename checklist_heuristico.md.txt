@@ -1,0 +1,24 @@
+# Checklist heurístico
+
+## Hallazgos documentados
+
+### H1-A
+- **Heurística:** H8 - Estética y diseño minimalista
+- **Pantalla / contexto:** Resultados de búsqueda
+- **Descripción:** La pantalla de resultados presenta una alta densidad de información por producto, incluyendo promociones, descuentos, cuotas, envíos y etiquetas visuales adicionales. Esta acumulación de elementos compite por la atención del usuario y dificulta la comparación rápida entre opciones.
+- **Evidencia:** A1_resultados_busqueda.jpg
+- **Severidad tentativa:** 2
+
+### H2-A
+- **Heurística:** H1 - Visibilidad del estado del sistema
+- **Pantalla / contexto:** Resultados tras aplicar filtro
+- **Descripción:** Después de aplicar filtros, el sistema no siempre comunica de forma suficientemente explícita qué criterio quedó activo ni cómo cambió el conjunto de resultados. Esto puede generar incertidumbre sobre si el filtro se aplicó correctamente o si el listado mostrado corresponde realmente a la selección hecha por el usuario.
+- **Evidencia:** A2_resultados_filtrados.jpg
+- **Severidad tentativa:** 2
+
+### H3-A
+- **Heurística:** H4 - Consistencia y estándares
+- **Pantalla / contexto:** Exploración de resultados refinados
+- **Descripción:** La organización de controles y etiquetas comerciales en la pantalla de exploración puede dificultar la identificación inmediata de las acciones principales, ya que elementos promocionales y opciones de refinamiento comparten protagonismo visual con la información esencial de los productos. Esto afecta la claridad del flujo de búsqueda.
+- **Evidencia:** A3_resultados_ordenados.jpg
+- **Severidad tentativa:** 2

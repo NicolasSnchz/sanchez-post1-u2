@@ -4,7 +4,7 @@
 
 # \## Descripción del proyecto
 
-# Este repositorio contiene una auditoría heurística de usabilidad realizada sobre la aplicación móvil Mercado Libre, aplicando las 10 heurísticas de Nielsen para identificar problemas de usabilidad, documentar hallazgos con evidencia visual y proponer recomendaciones de mejora.
+# Este repositorio contiene una auditoría heurística de usabilidad realizada sobre la aplicación móvil Mercado Libre. La evaluación se desarrolló con base en las 10 heurísticas de Nielsen, con el fin de identificar problemas de usabilidad en flujos clave de la app, documentar hallazgos con evidencia visual y proponer recomendaciones de mejora.
 
 # 
 
@@ -12,7 +12,7 @@
 
 # \- \*\*Nombre de la app:\*\* Mercado Libre
 
-# \- \*\*Versión:\*\* \[AQUÍ PONES LA VERSIÓN EXACTA]
+# \- \*\*Versión:\*\* \[10.518.0]
 
 # \- \*\*Plataforma:\*\* Android
 
@@ -30,13 +30,13 @@
 
 # \## Justificación de los flujos
 
-# Se seleccionaron estos tres flujos porque representan el recorrido principal del usuario dentro de una aplicación de comercio electrónico. El flujo de búsqueda permite encontrar productos y comparar opciones; el flujo de detalle del producto permite revisar información clave como precio, imágenes, reputación del vendedor y características; y el flujo de carrito e inicio del proceso de compra permite evaluar si la aplicación facilita avanzar hacia la conversión. Si alguno de estos flujos presenta problemas de usabilidad, la experiencia general del usuario se ve afectada de manera directa.
+# Se seleccionaron estos tres flujos porque representan el recorrido principal del usuario dentro de una aplicación de comercio electrónico. El flujo de búsqueda permite encontrar productos y comparar opciones; el flujo de detalle del producto permite revisar información clave para la toma de decisiones, como precio, imágenes, reputación del vendedor y características; y el flujo de carrito e inicio del proceso de compra permite evaluar si la aplicación facilita avanzar hacia la conversión. Si alguno de estos flujos presenta problemas de usabilidad, la experiencia general del usuario se ve afectada de forma directa.
 
 # 
 
 # \## Evidencia inicial
 
-# Captura de la pantalla principal de la aplicación:
+# La siguiente captura corresponde a la pantalla principal de la aplicación evaluada:
 
 # 
 

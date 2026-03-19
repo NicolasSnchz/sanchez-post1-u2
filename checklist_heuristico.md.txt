@@ -22,3 +22,26 @@
 - **Descripción:** La organización de controles y etiquetas comerciales en la pantalla de exploración puede dificultar la identificación inmediata de las acciones principales, ya que elementos promocionales y opciones de refinamiento comparten protagonismo visual con la información esencial de los productos. Esto afecta la claridad del flujo de búsqueda.
 - **Evidencia:** A3_resultados_ordenados.jpg
 - **Severidad tentativa:** 2
+
+## Hallazgos - Flujo B
+
+### H4-B
+- **Heurística:** H8 - Estética y diseño minimalista
+- **Pantalla / contexto:** Encabezado del detalle del producto
+- **Descripción:** La parte superior del detalle del producto concentra demasiados elementos compitiendo visualmente entre sí, como imagen, precio, descuentos, cuotas, promociones y etiquetas comerciales. Esta sobrecarga dificulta identificar con rapidez la información más importante para decidir si el producto es relevante.
+- **Evidencia:** B1_detalle_producto_superior.jpg
+- **Severidad tentativa:** 2
+
+### H5-B
+- **Heurística:** H6 - Reconocimiento antes que recuerdo
+- **Pantalla / contexto:** Sección de envío, vendedor y condiciones
+- **Descripción:** La información clave para decidir la compra se encuentra distribuida en distintos bloques separados dentro del detalle. El usuario debe recordar datos vistos anteriormente, como precio, condiciones de envío y confianza del vendedor, para integrarlos mentalmente y tomar una decisión, en lugar de encontrarlos agrupados de forma más directa.
+- **Evidencia:** B2_envio_vendedor_condiciones.jpg
+- **Severidad tentativa:** 2
+
+### H6-B
+- **Heurística:** H1 - Visibilidad del estado del sistema
+- **Pantalla / contexto:** Descripción, opiniones o información técnica del producto
+- **Descripción:** El detalle del producto no siempre comunica con suficiente claridad qué información es prioritaria dentro del recorrido de evaluación, ya que varias secciones relevantes quedan dispersas a lo largo de un desplazamiento extenso. Esto puede hacer que el usuario no tenga certeza inmediata sobre dónde encontrar la información más útil para validar su decisión de compra.
+- **Evidencia:** B3_descripcion_opiniones.jpg
+- **Severidad tentativa:** 2
